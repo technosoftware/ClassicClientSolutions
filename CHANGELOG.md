@@ -1,8 +1,7 @@
 # Changelog
 
 -------------------------------------------------------------------------------------------------------------
-## OPC DA/AE/HDA Solution .NET - 3.0.0 (Work in Progress)
-- Merged client and server repositories
+## OPC DA/AE/HDA Solution .NET - 3.0.0
 
 ### Breaking Changes
 - Removed support of .NET 7.0. End of Support was 14-MAY-2024.
