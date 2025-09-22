@@ -38,9 +38,6 @@
     <AnalysisMode>AllDisabledByDefault</AnalysisMode>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Technosoftware.ClassicSolutions.DaAeHdaClient" Version="3.0.0" />
-  </ItemGroup>
-  <ItemGroup>
     <Reference Update="System">
       <Name>System</Name>
     </Reference>
@@ -96,6 +93,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\..\src\Technosoftware\DaAeHdaClient.Com\Technosoftware.DaAeHdaClient.Com.csproj" />
+    <ProjectReference Include="..\..\..\src\Technosoftware\DaAeHdaClient\Technosoftware.DaAeHdaClient.csproj" />
+    <ProjectReference Include="..\..\..\src\Technosoftware\OpcRcw\Technosoftware.OpcRcw.csproj" />
     <ProjectReference Include="..\Common\SampleClients.Common.csproj" />
   </ItemGroup>
   <ItemGroup>
