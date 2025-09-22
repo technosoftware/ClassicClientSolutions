@@ -4,7 +4,6 @@ The OPC Classic Client Solution offers a fast and easy access to the OPC Classic
 
  * .NET 4.8, 
  * .NET 4.7.2
- * .NET 4.6.2
  
 support.
 
