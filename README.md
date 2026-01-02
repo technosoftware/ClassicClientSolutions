@@ -2,6 +2,7 @@
 
 The OPC Classic Client Solution offers a fast and easy access to the OPC Classic Client technology. Develop OPC DA, OPC AE and OPC HDA compliant Clients with C# targeting 
 
+ * .NET 10.0, .NET 9.0, .NET 8.0, 
  * .NET 4.8, 
  * .NET 4.7.2
  

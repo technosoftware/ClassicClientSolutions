@@ -1,6 +1,13 @@
 # Changelog
 
 -------------------------------------------------------------------------------------------------------------
+## OPC DA/AE/HDA Solution .NET - 4.0.0 RC
+
+### Breaking Changes
+- Added support of .NET 10.0, .NET 9.0 and .NET 8.0 - Can only be used with x86 or x64 platform. AnyCPU is not supported
+- In addition .NET 4.8 and .NET 4.7.2 are supported.
+
+-------------------------------------------------------------------------------------------------------------
 ## OPC DA/AE/HDA Solution .NET - 3.0.0
 
 ### Breaking Changes
